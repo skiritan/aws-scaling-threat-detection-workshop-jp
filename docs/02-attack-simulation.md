@@ -11,7 +11,7 @@
 
 攻撃シミュレーションを開始するには、モジュール 2 の CloudFormation テンプレートを実行する必要があります。
 
-!!! info "CloudFormation Template実行する前に <a href="https://github.com/aws-samples/aws-scaling-threat-detection-workshop/blob/master/templates/02-attack-simulation.yml" target="_blank">こちら</a> もご確認ください"
+!!! info "CloudFormation Template実行する前に <a href="https://github.com/aws-samples/aws-scaling-threat-detection-workshop/blob/master/templates/02-attack-simulation.yml" target="_blank">こちら</a>もご確認ください"
 
 リージョン| デプロイ
 ------|-----
